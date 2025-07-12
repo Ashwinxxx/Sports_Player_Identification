@@ -1,0 +1,7 @@
+pip install opencv-python
+pip install ultralytics
+pip install numpy
+pip install matplotlib
+pip install scipy
+pip install json
+pip install argparse
