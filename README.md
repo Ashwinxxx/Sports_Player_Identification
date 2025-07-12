@@ -14,12 +14,11 @@ Visual-Spatial Mapping: Trajectory plots for player movements
 Temporal Mapping: Frame-wise appearance timelines
 Output Formats
 JSON Exports
-The system generates several JSON files containing:
-
-detections.json: Frame-by-frame detection results
-trajectories.json: Player movement paths and coordinates
-mappings.json: Cross-view player correspondence
-timelines.json: Temporal appearance data
+The system generates braodacst JSON files containing:
+Frame-by-frame detection results
+Player movement paths and coordinates
+Cross-view player correspondence
+Temporal appearance data
 
 Visualizations
 
