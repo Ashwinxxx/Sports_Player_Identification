@@ -12,6 +12,18 @@ Player Mapping: Matches players between different camera views
 Visual-Spatial Mapping: Trajectory plots for player movements
 
 Temporal Mapping: Frame-wise appearance timelines
+Output Formats
+JSON Exports
+The system generates several JSON files containing:
 
-JSON Exports: Detections, paths, and mappings saved for external analysis
+detections.json: Frame-by-frame detection results
+trajectories.json: Player movement paths and coordinates
+mappings.json: Cross-view player correspondence
+timelines.json: Temporal appearance data
+
+Visualizations
+
+Trajectory Plots: Visual representation of player movements
+Timeline Charts: Frame-wise player appearance patterns
+Mapping Diagrams: Cross-view player correspondence visualization
 
