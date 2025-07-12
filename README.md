@@ -30,4 +30,14 @@ Visualizations
 Trajectory Plots: Visual representation of player movements
 Timeline Charts: Frame-wise player appearance patterns
 Mapping Diagrams: Cross-view player correspondence visualization
+Setup
+
+Clone the repository:
+
+bashgit clone https://github.com/Ashwinxxx/Sports_Player_Identification.git
+cd Sports_Player_Identification
+
+Install required dependencies:
+
+bashpip install -r dependancies.txt
 
