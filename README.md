@@ -1,12 +1,12 @@
 (Option 1)
-# 🏃‍♂️ Sports Player Identification (Multi-Camera View)  
+Sports Player Identification (Multi-Camera View)  
 *Internship Assessment Submission — by Ashwin S.*
  
 Overview 
 
 This project performs **sports player detection and ID tracking** using **YOLOv8** across two synchronized video feeds:
-- 📺 `broadcast.mp4` — the traditional game view
-- 🎥 `tacticam.mp4` — a static tactical overhead view
+-  `broadcast.mp4` — the traditional game view
+- `tacticam.mp4` — a static tactical overhead view
 
 The goal is to **detect players**, **track them frame-by-frame**, and attempt to assign **consistent IDs** across both camera views. Outputs include bounding boxes, trajectory visualizations, and frame-by-frame JSON logs.
 Key Features
